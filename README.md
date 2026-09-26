@@ -9,7 +9,9 @@ My main project is **EventHorizon-AI** — an independent research and engineeri
 ---
 
 ## 🚀 EventHorizon-AI
-
+<p align="center">
+  <img src="./assets/eventhorizon-animation.gif" width="600">
+</p>
 **EventHorizon-AI** is my long-term research and engineering project.
 
 The goal is simple:
