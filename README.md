@@ -76,7 +76,7 @@ The system was evaluated against a seasonal baseline using a rigorous time-serie
 
 The technical model is validated; the current challenge is determining where forecasting creates enough operational value to become a useful product.
 
-[View repository →](https://github.com/EventHorizon-ia/EventHorizon-AI)
+[View repository →](https://github.com/EventHorizon-ia/EventHorizon-Demand)
 
 ---
 
