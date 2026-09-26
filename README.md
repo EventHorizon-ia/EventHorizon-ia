@@ -8,27 +8,31 @@ My main project is **EventHorizon-AI** — an independent research and engineeri
 
 ---
 
-## 🚀 EventHorizon-AI
-<p align="center">
-  <img src="./assets/eventhorizon-animation.gif" width="600">
-</p>
-**EventHorizon-AI** is my long-term research and engineering project.
+## 🌌 EventHorizon-AI
 
-The goal is simple:
-
-> **Build models. Test them honestly. Find out what actually works.**
-
-The project explores forecasting across different domains, from financial time series to retail demand.
-
-### Current work
-
-- 📈 **Time-series forecasting**
-- 🤖 **Machine learning**
-- 📊 **Statistical validation**
-- 🔬 **Walk-forward validation**
-- 🧪 **Bootstrap & permutation testing**
-- 🏪 **Demand forecasting for small businesses**
-- 🧠 **Research-driven product development**
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="55%">
+      <p><strong>EventHorizon-AI</strong> is my long-term research and engineering project.</p>
+      <p>The goal is simple:</p>
+      <blockquote><strong>Build models. Test them honestly. Find out what actually works.</strong></blockquote>
+      <p>The project explores forecasting across different domains, from financial time series to retail demand.</p>
+      <h3>Current work</h3>
+      <ul>
+        <li>📈 <strong>Time-series forecasting</strong></li>
+        <li>🤖 <strong>Machine learning</strong></li>
+        <li>📊 <strong>Statistical validation</strong></li>
+        <li>🔬 <strong>Walk-forward validation</strong></li>
+        <li>🧪 <strong>Bootstrap &amp; permutation testing</strong></li>
+        <li>🏪 <strong>Demand forecasting for small businesses</strong></li>
+        <li>🧠 <strong>Research-driven product development</strong></li>
+      </ul>
+    </td>
+    <td valign="top" width="45%" align="right">
+      <img src="./assets/eventhorizon-animation.gif" width="100%" style="max-width: 420px; display: block; margin-left: auto;">
+    </td>
+  </tr>
+</table>
 
 ### What I've learned
 
