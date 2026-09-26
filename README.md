@@ -40,7 +40,7 @@ That distinction is now part of the way I approach every project:
 
 **Model → Statistical Evidence → Real-World Constraints → Product Value**
 
-[Explore EventHorizon-AI →](https://github.com/EventHorizon-ia/EventHorizon)
+[Explore EventHorizon-AI →](https://github.com/EventHorizon-ia)
 
 ---
 
@@ -225,9 +225,10 @@ My long-term interests lie particularly at the intersection of **AI, physics and
 
 ## 🔗 Links
 
-- 💻 [EventHorizon-AI](https://github.com/LucasTheodoro/EventHorizon-AI)
-- 📊 [honest-validation-toolkit](https://github.com/LucasTheodoro/honest-validation-toolkit)
-- ₿ [EventHorizon Crypto](https://github.com/LucasTheodoro/eventhorizon-crypto)
+- 💻 [EventHorizon-AI](https://github.com/EventHorizon-ia)
+- 📊 [honest-validation-toolkit](https://github.com/EventHorizon-ia/honest-validation-toolkit)
+- ₿ [EventHorizon Crypto](https://github.com/EventHorizon-ia/eventhorizon-crypto)
+
 
 ---
 
