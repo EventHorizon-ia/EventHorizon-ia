@@ -110,12 +110,10 @@ The goal is to make it harder to accidentally mistake temporal structure, autoco
 ### Mathematics
 - Calculus
 - Linear algebra
-- Complex numbers
 - Probability and statistics
 - Mathematical modeling
 
 ### Physics
-- Classical mechanics
 - Special relativity
 - General relativity
 - Quantum mechanics
